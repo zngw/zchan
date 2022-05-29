@@ -1,2 +1,4 @@
 github.com/zngw/ringbuffer v1.0.0 h1:xGl/GgtZzGBvaPO9bONkw7s4cH5Qrallm9/qcR25qhw=
 github.com/zngw/ringbuffer v1.0.0/go.mod h1:mGLUcwWVDI7mNt/w+OyERwbF4r2ySJHUyWORJDrJQOY=
+github.com/zngw/ringbuffer v1.1.0 h1:TEHwiT+vPV3mucJncQuZtvcpxuwBc1kHUqauJvk0TB4=
+github.com/zngw/ringbuffer v1.1.0/go.mod h1:mGLUcwWVDI7mNt/w+OyERwbF4r2ySJHUyWORJDrJQOY=
